@@ -1,0 +1,29 @@
+
+
+.razmak{
+    margin-bottom: 10px;
+}
+.zaglavlje{
+    color: white;
+    background-color: black;
+}
+body{
+        background-color: white;
+        color: black;
+}
+
+.subsection{
+   
+}
+.table.dataTable.no-footer{
+    color:black;
+}
+thead{
+    color:black;
+}
+#footer{
+    background-color: #666666;
+}
+#hederica{
+    margin-bottom: 10px;
+}
